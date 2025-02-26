@@ -12,7 +12,7 @@ export const Hero = () => {
             <span className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text">
               Tushit Garg
             </span>{" "}
-            Page
+            Pages
           </h1>{" "}
           for{" "}
           <h2 className="inline">
